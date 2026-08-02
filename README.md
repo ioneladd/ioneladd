@@ -1,6 +1,6 @@
 # Hi, I'm Ionela-Valentina Dică 👋
 
-I am a Computer Engineering graduate interested in full-stack development, backend systems, databases, networking, and cybersecurity.
+I am a Computer Engineering graduate interested in full-stack development, backend systems, databases, AI, networking, and cybersecurity.
 
 I enjoy building practical applications using technologies such as React, FastAPI, PostgreSQL, C#, .NET, and Docker.
 
