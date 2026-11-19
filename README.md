@@ -26,7 +26,6 @@ Teachers can create courses and attendance sessions, while students register the
 
 `React` `Vite` `Tailwind CSS` `Python` `FastAPI` `WebSockets` `PostgreSQL` `Supabase` `Firebase` `Docker`
 
-[Live Demo](https://uniattendance.vercel.app/) · [Backend API](https://uniattendance.onrender.com/api) · [Source Code](https://github.com/ioneladd/UniAttendancee)
 
 ---
 
