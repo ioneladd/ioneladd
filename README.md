@@ -30,7 +30,7 @@ Teachers can create courses and attendance sessions, while students register the
 
 ---
 
-### 📡 [GSM Wake-on-LAN](https://github.com/ioneladd/GSM_WoL)
+### 📡 [GSM Wake-on-LAN](https://github.com/ioneladd/GSM_WoL_Project)
 
 A Windows Service that communicates with a GSM modem through a serial port and remotely wakes network devices using Wake-on-LAN magic packets.
 
